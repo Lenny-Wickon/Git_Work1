@@ -56,9 +56,9 @@ git merge <имя_ветки>
 ```sh
 clear
 ```
-Create in MAster new issue 2 which conflicted with issue 1 on branch branch_issue
-![That is problem](problem.jpg)
-
+Создание нарочитой ошибки в git и исправление ее. Запись в branch_issue
+> ошибка 1
+>> **Исправили ошибку выбрав ветку branch_issue в качетсве Правильной и Верной!** а также добавили эту запись.
 
 ### Полужирный
 ```sh
