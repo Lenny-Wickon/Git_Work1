@@ -32,7 +32,6 @@ git log --graph
 ```sh
 git log --oneline --graph
 ```
-
 ### Позволяет переключаться между коммитами
 ```sh
 git checkout <имя ветки или комита>
