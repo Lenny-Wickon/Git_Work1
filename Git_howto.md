@@ -56,6 +56,9 @@ git merge <имя_ветки>
 ```sh
 clear
 ```
+Create in MAster new issue 2 which conflicted with issue 1 on branch branch_issue
+![That is problem](problem.jpg)
+
 
 ### Полужирный
 ```sh
