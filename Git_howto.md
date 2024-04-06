@@ -22,7 +22,7 @@ git log --oneline
 ```
 ### Позволяет переключаться между коммитами
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 ### Полужирный
 ```sh
